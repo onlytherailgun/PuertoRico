@@ -1,4 +1,4 @@
-# PuertoRico
+﻿# PuertoRico
 
 This is an demo project for learning Unreal4.
 
@@ -6,9 +6,9 @@ The target is create a digital edition for the famous board games 《Puerto Rico
 
 The development plan of i made is as follows :
 
-  1,build level and item for the game by translating an ue4 official demo.
+--  1,build level and item for the game by translating an ue4 official demo.--- done
   
-  2,make sure the basic Controller works by the game rule. 
+--  2,make sure the basic Controller works by the game rule. --30％
   
   3,code the logic or use blueprint for the element in the game.(maybe not including all element)
   
