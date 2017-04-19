@@ -12,8 +12,9 @@ UCLASS()
 class APR_Board_Player : public APR_Board
 {
 	GENERATED_BODY()
-	
-	
-	
+
+
+public:
+	int a;
 	
 };
