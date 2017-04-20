@@ -5,10 +5,11 @@ ehthumbs.db
 #PR_Project
 Intermediate/
 Saved/
-Binaries/
 Build/
 StarterContent/
 DerivedDataCache/
+
+*.pdb
 
 PuertoRico.VC.db
 
